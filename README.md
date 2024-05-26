@@ -499,6 +499,7 @@
 
 <a name="WTP"></a>
 ### Whatsapp
+ [READ LOCKED WHATSAPP CHATS ON ANDROID AND IOS](https://medium.com/@xpl0itmE/read-locked-whatsapp-chats-on-android-and-ios-da1b39dd3ce2) by [Himanshu Bharti](https://twitter.com/xpl0itmE)
 - [Bypassing biometric authentication in WhatsApp using VoIP](https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba "Bypassing biometric authentication in WhatsApp using VoIP")
 - [WhatsApp Hacked - Remote Code Execution Vulnerability in WhatsApp Web](https://immukul.blogspot.in/2016/11/whatsapp-hacked.html "Remote Code Execution Vulnerability in WhatsApp Web")
 - [G Suite vulnerability in WhatsApp](http://blog.pentestnepal.tech/post/156707088037/i-got-emails-g-suite-vulnerability "G Suite vulnerability in WhatsApp")
